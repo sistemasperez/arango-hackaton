@@ -82,8 +82,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-[Add your license here]
 
 ## Contact
 
-[Your Name] - [Your Email]
+Anibal Perez
