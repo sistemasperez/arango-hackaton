@@ -32,8 +32,7 @@ ArangoGraph Geo X-ray is a powerful application that leverages OpenStreetMap dat
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
-    cd [repository directory]
+    git clone https://github.com/sistemasperez/arango-hackaton.git
     ```
 
 2.  **Install dependencies:**
@@ -53,9 +52,6 @@ ArangoGraph Geo X-ray is a powerful application that leverages OpenStreetMap dat
 
 5.  **Run the application:**
 
-    ```bash
-    python app.py
-    ```
 
 ## Usage
 
